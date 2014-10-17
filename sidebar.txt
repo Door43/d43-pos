@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pos:home|Door43 (pos)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pos|d43-pos repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pos/archive/master.zip|d43-pos.zip]]
+
+**Recent Changes**
+{{changes>ns = pos}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pos|Ethnologue data]]
+
